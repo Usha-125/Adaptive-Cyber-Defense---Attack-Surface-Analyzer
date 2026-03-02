@@ -1,0 +1,7 @@
+2026-03-02 14:29:57,544 - INFO - === New Scan Session Started ===
+2026-03-02 14:29:57,544 - INFO - Application started
+2026-03-02 14:30:07,712 - INFO - Target: 127.0.0.1, Port Range: 25-200
+2026-03-02 14:30:07,817 - INFO - Detected OS: Windows
+2026-03-02 14:30:12,309 - INFO - Total Risk Score: 1
+2026-03-02 14:30:12,310 - INFO - Risk Level: LOW
+2026-03-02 14:30:12,310 - INFO - Scan Completed

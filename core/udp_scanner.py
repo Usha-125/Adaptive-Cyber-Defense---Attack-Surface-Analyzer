@@ -3,6 +3,7 @@ import time
 import random
 import threading
 from colorama import Fore
+import logging
 
 lock = threading.Lock()
 
@@ -26,6 +27,8 @@ def udp_scan(target, port, risk_score, scan_results):
             with lock:
                 risk_score[0] += 2
             print(Fore.MAGENTA + f"[UDP OPEN] Port {port}")
+            logging.info(f"UDP OPEN: Port {port}")   # <-- Added logging here
+
         except socket.timeout:
             state = "FILTERED"
 
