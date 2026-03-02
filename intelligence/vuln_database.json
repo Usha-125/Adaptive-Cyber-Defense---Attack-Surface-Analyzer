@@ -1,0 +1,23 @@
+{
+    "OpenSSH_6": {
+        "cve": "CVE-2018-15473",
+        "cvss": 6.5,
+        "severity": "Medium",
+        "exploit_available": true,
+        "mitigation": "Upgrade OpenSSH to latest stable version"
+    },
+    "Apache/2.4.7": {
+        "cve": "CVE-2017-3169",
+        "cvss": 7.5,
+        "severity": "High",
+        "exploit_available": false,
+        "mitigation": "Apply Apache security patch"
+    },
+    "vsFTPd 2.3.4": {
+        "cve": "CVE-2011-2523",
+        "cvss": 9.8,
+        "severity": "Critical",
+        "exploit_available": true,
+        "mitigation": "Immediately upgrade or disable vulnerable FTP service"
+    }
+}

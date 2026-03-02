@@ -1,4 +1,0 @@
-Target: scanme.nmap.org
-Estimated OS: Linux/Unix
-TCP Open Ports: [22, 80]
-UDP Open Ports: []
