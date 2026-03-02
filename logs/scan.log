@@ -5,3 +5,22 @@
 2026-03-02 14:30:12,309 - INFO - Total Risk Score: 1
 2026-03-02 14:30:12,310 - INFO - Risk Level: LOW
 2026-03-02 14:30:12,310 - INFO - Scan Completed
+2026-03-02 14:46:12,617 - INFO - === New Scan Session Started ===
+2026-03-02 14:46:12,617 - INFO - Application started
+2026-03-02 14:46:23,719 - INFO - === New Scan Session Started ===
+2026-03-02 14:46:23,719 - INFO - Application started
+2026-03-02 14:46:30,244 - INFO - Scanning Target: 127.0.0.1
+2026-03-02 14:46:32,588 - INFO - Detected OS: Windows
+2026-03-02 14:46:34,746 - INFO - Risk Score: 0
+2026-03-02 14:46:34,747 - INFO - Risk Level: LOW
+2026-03-02 14:46:34,747 - INFO - Scan Completed
+2026-03-02 14:46:34,747 - INFO - Scanning Target: 192.168.1.1
+2026-03-02 14:46:38,798 - INFO - Detected OS: OS Detection Failed
+2026-03-02 14:46:40,958 - INFO - Risk Score: 5
+2026-03-02 14:46:40,958 - INFO - Risk Level: MEDIUM
+2026-03-02 14:46:40,959 - INFO - Scan Completed
+2026-03-02 14:46:40,959 - INFO - Scanning Target: scanme.nmap.org
+2026-03-02 14:46:41,604 - INFO - Detected OS: Linux/Unix
+2026-03-02 14:46:43,778 - INFO - Risk Score: 8
+2026-03-02 14:46:43,779 - INFO - Risk Level: MEDIUM
+2026-03-02 14:46:43,779 - INFO - Scan Completed

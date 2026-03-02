@@ -1,2474 +1,1355 @@
-{
-    "target": "127.0.0.1",
-    "os_estimate": "Windows",
-    "scan_start": "2026-03-02 14:30:07.712629",
-    "scan_end": "2026-03-02 14:30:12.307176",
-    "total_risk_score": 1,
-    "risk_level": "LOW",
-    "results": [
-        {
-            "port": 26,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 46,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 31,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 32,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 25,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 35,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 39,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 28,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 66,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 64,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 53,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 77,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 43,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 65,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 45,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 54,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 37,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 71,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 76,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 27,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 38,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 52,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 57,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 70,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 33,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 47,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 51,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 42,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 83,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 59,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 40,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 56,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 29,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 41,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 30,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 88,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 67,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 49,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 36,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 55,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 75,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 48,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 80,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 78,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 60,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 34,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 50,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 44,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 72,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 62,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 95,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 94,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 68,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 74,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 58,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 73,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 86,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 91,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 81,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 79,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 69,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 63,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 61,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 82,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 96,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 90,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 100,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 85,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 89,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 93,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 104,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 92,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 101,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 107,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 84,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 87,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 106,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 105,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 99,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 98,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 97,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 103,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 109,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 111,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 114,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 102,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 112,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 113,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 116,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 117,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 108,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 110,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 118,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 115,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 120,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 119,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 122,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 121,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 123,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 36,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 28,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 46,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 41,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 44,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 45,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 52,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 58,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 32,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 56,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 40,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 75,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 72,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 43,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 26,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 66,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 77,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 69,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 33,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 34,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 68,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 42,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 129,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 126,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 80,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "HTTP",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 48,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 31,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 37,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 63,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 133,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 127,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 27,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 51,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 25,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "SMTP",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 134,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 124,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 130,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 38,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 61,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 35,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 78,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 60,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 30,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 29,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 125,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 128,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 131,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 49,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 91,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 47,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 73,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 54,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 39,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 76,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 55,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 57,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 81,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 135,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 84,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 59,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 65,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 87,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 53,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "DNS",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 67,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 136,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 140,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 62,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 79,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 50,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 70,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 135,
-            "protocol": "TCP",
-            "state": "OPEN",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 139,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 143,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 86,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 64,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 92,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 71,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 74,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 90,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 147,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 132,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 153,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 89,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 83,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 82,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 98,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 105,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 88,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 157,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 138,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 146,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 145,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 104,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 97,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 101,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 99,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 107,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 100,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 161,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 137,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 167,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 144,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 141,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 164,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 94,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 108,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 85,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 110,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "POP3",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 173,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 95,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 93,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 158,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 148,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 155,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 151,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 154,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 113,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 102,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 96,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 103,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 159,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 152,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 172,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 149,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 150,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 142,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 156,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 109,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 160,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 168,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 162,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 171,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 111,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 115,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 163,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 165,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 183,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 170,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 166,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 178,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 175,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 184,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 174,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 188,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 106,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 169,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 177,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 117,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 119,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 195,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 181,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 187,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 180,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 196,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 176,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 182,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 200,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 112,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 194,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 121,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 114,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 179,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 189,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 191,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 190,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 116,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 120,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 185,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 192,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 186,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 199,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 198,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 193,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 118,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 197,
-            "protocol": "UDP",
-            "state": "ERROR"
-        },
-        {
-            "port": 122,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 123,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 124,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 127,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 126,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 140,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 136,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 138,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 125,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 129,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 150,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 132,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 137,
-            "protocol": "UDP",
-            "state": "FILTERED"
-        },
-        {
-            "port": 131,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 128,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 153,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 144,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 152,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 133,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 130,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 151,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 146,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 147,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 143,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "IMAP",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 141,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 163,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 165,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 134,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 167,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 158,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 166,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 157,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 162,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 145,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 164,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 139,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 155,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 148,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 175,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 142,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 149,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 168,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 171,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 154,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 159,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 174,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 156,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 160,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 184,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 179,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 178,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 173,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 172,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 170,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 169,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 181,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 161,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 180,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 194,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 189,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 177,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 182,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 197,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 185,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 183,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 186,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 198,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 176,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 195,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 188,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 192,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 187,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 199,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 191,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 193,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 190,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 200,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        },
-        {
-            "port": 196,
-            "protocol": "TCP",
-            "state": "FILTERED",
-            "service": "Unknown",
-            "banner": null,
-            "vulnerabilities": [],
-            "attack_surface": null
-        }
-    ]
-}
+[
+    {
+        "target": "127.0.0.1",
+        "os_estimate": "Windows",
+        "scan_start": "2026-03-02 14:46:30.244800",
+        "scan_end": "2026-03-02 14:46:34.746694",
+        "total_risk_score": 0,
+        "risk_level": "LOW",
+        "results": [
+            {
+                "port": 47,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 45,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 49,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 23,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 43,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 39,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 42,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 20,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 46,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 30,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 22,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 32,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 37,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 27,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 26,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 35,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 36,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 33,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 34,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 50,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 25,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 38,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 29,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 31,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 21,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 28,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 44,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 41,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 24,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 40,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 48,
+                "protocol": "UDP",
+                "state": "ERROR"
+            },
+            {
+                "port": 22,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "SSH",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 47,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 32,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 34,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 38,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 30,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 42,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 31,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 20,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 45,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 23,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Telnet",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 46,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 28,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 50,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 40,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 25,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "SMTP",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 37,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 41,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 33,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 44,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 39,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 48,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 24,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 27,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 21,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "FTP",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 36,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 29,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 43,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 26,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 35,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 49,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            }
+        ]
+    },
+    {
+        "target": "192.168.1.1",
+        "os_estimate": "OS Detection Failed",
+        "scan_start": "2026-03-02 14:46:34.748158",
+        "scan_end": "2026-03-02 14:46:40.958661",
+        "total_risk_score": 5,
+        "risk_level": "MEDIUM",
+        "results": [
+            {
+                "port": 37,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 23,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 23,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Telnet",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 36,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 48,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 24,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 47,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 32,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 35,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 49,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 27,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 47,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 30,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 36,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 50,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 21,
+                "protocol": "TCP",
+                "state": "OPEN",
+                "service": "FTP",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": {
+                    "attacks": [
+                        "Anonymous Login",
+                        "Brute Force Attack",
+                        "Directory Traversal"
+                    ],
+                    "defense": "Disable anonymous login, enforce strong passwords, restrict IP access"
+                }
+            },
+            {
+                "port": 38,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 31,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 39,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 21,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 29,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 25,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 34,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 46,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 44,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 44,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 46,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 37,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 26,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 20,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 40,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 38,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 29,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 33,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 40,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 42,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 42,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 50,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 20,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 27,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 22,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 22,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "SSH",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 32,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 45,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 43,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 48,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 31,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 24,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 39,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 34,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 41,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 26,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 49,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 28,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 35,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 41,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 43,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 25,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "SMTP",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 45,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 28,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 30,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 33,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            }
+        ]
+    },
+    {
+        "target": "scanme.nmap.org",
+        "os_estimate": "Linux/Unix",
+        "scan_start": "2026-03-02 14:46:40.960066",
+        "scan_end": "2026-03-02 14:46:43.778678",
+        "total_risk_score": 8,
+        "risk_level": "MEDIUM",
+        "results": [
+            {
+                "port": 21,
+                "protocol": "TCP",
+                "state": "OPEN",
+                "service": "FTP",
+                "banner": "",
+                "vulnerabilities": [],
+                "attack_surface": {
+                    "attacks": [
+                        "Anonymous Login",
+                        "Brute Force Attack",
+                        "Directory Traversal"
+                    ],
+                    "defense": "Disable anonymous login, enforce strong passwords, restrict IP access"
+                }
+            },
+            {
+                "port": 22,
+                "protocol": "TCP",
+                "state": "OPEN",
+                "service": "SSH",
+                "banner": "",
+                "vulnerabilities": [],
+                "attack_surface": {
+                    "attacks": [
+                        "Credential Stuffing",
+                        "Dictionary Attack",
+                        "Port Scanning"
+                    ],
+                    "defense": "Use key-based authentication, disable root login, enable fail2ban"
+                }
+            },
+            {
+                "port": 44,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 34,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 28,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 34,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 24,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 31,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 32,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 29,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 24,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 40,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 39,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 49,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 28,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 43,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 20,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 25,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "SMTP",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 43,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 36,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 38,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 42,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 45,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 25,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 41,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 48,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 33,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 47,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 30,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 37,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 30,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 33,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 32,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 21,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 38,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 45,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 50,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 35,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 44,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 47,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 40,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 48,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 22,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 26,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 27,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 26,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 41,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 37,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 29,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 36,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 42,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 27,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 35,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 46,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 46,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 49,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 23,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 20,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 31,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            },
+            {
+                "port": 39,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Unknown",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 23,
+                "protocol": "TCP",
+                "state": "FILTERED",
+                "service": "Telnet",
+                "banner": null,
+                "vulnerabilities": [],
+                "attack_surface": null
+            },
+            {
+                "port": 50,
+                "protocol": "UDP",
+                "state": "FILTERED"
+            }
+        ]
+    }
+]
